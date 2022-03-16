@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We create variable name and set it to Dane.
+// We create conditional if name === Mary, then console.log('Hi Mary!')
+// We create else code if conditional name === Mary is false, which is false because variable is name = 'Dane', so
+// We create console.log('How do you do?')
 
 //CODE
 /*
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We create variable let secret and don't assign value, we create variable code and assign value as 123.
+// We create conditional if code === 123, then assign variable secret = 'super' and code = 'code * 2'
+// We create another conditonal if code is greater than 250, then secret = 'duper', 
+// We create console.log(secret)
 
 //CODE
 /*
@@ -70,9 +70,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// We create boolean isStudent as true, we create variable age = 34, and we create variable zip = 55407.
+// We create compound conditional if isStudent is true and the zip code is greater than 8000, 
+// We create console.log('You're a student on the West Coast')
+// We create else variable that 
 //
 
 //CODE
